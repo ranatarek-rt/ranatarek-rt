@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rana Tarek.
 - 👀 I’m interested in Embedded systems and web development 
 - 🌱 I’m currently learning embedded systems. 
-- 💞️ I’m looking to collaborate on any embedded systems projects.
+- 💞️ I’m looking to collaborate on embedded systems projects.
 
 
 <!---
