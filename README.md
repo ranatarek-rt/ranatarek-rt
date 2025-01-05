@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rana Tarek.
-- 👀 I’m web development 
+- 👀 I’m a web developer
 - 🌱 I’m currently learning backend and frontend to be a full-stack developer.
 - 💞️ I’m looking to collaborate on backend projects.
 
